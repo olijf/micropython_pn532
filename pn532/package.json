@@ -1,0 +1,8 @@
+{
+    "urls": [
+      ["pn532.py", "github:olijf/micropython_pn532/pn532/pn532.py"],
+      ["uart.py", "github:olijf/micropython_pn532/pn532/uart.py"],
+      ["i2c.py", "github:olijf/micropython_pn532/pn532/i2c.py"]
+    ],
+    "version": "0.1"
+  }
