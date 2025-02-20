@@ -17,7 +17,7 @@ class PN532_I2C(PN532):
     """Driver for the PN532 connected over I2C"""
 
     def __init__(self, i2c, *, reset=None, debug=False, address=0x24):
-      """Create an instance of the PN532 class using Serial connection.
+      """Create an instance of the PN532 class using I2C.
       Optional reset pin and debugging output.
       """
       self.debug = debug

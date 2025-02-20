@@ -33,7 +33,7 @@ else:
 
 - The timeout is expressed in milliseconds instead of seconds.
 - The module name is different.
-- Only UART is available
+- Only UART and I2C is available
 - _SPI is not available._ 
 
 ### TODO
